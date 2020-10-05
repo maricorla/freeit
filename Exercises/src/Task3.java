@@ -10,7 +10,7 @@ public class Task3 {
         double[] table = method(10) ;
        // printArray(table);
         System.out.println(Arrays.toString(table));
-        System.out.println(Arrays.toString(dm) );
+        System.out.println(Arrays.toString(dm));
 
 
 
