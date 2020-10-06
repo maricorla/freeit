@@ -11,6 +11,7 @@ public class Task3 {
        // printArray(table);
         System.out.println(Arrays.toString(table));
         System.out.println(Arrays.toString(dm));
+        System.out.println(Arrays.toString(dm));
 
 
 
